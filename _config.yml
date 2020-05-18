@@ -7,7 +7,7 @@ email: siddharthlal25@gmail.com
 ### for feed
 name: Siddharth Lal
 description: Personal blog
-url: http://siddharthlal25.github.io/blog/
+url: http://siddharthlal25.github.io/blog
 
 highlighter: rouge
 markdown: kramdown
