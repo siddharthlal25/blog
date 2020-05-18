@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Pankaj Mishra - GSoC</title>
+		<description>Posts categorized as 'gsoc'</description>
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.category.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Google Summer of Code - Blog #0!</title>
+				<description>&lt;p&gt;Hey there. Welcome to my first blog of an upcoming series of blogs where I will be trying to chronicle my journey this year as an open source contributor to RADIS under the Google Summer of Code program!&lt;/p&gt;
+
+&lt;p&gt;Stay tuned!&lt;/p&gt;
+
+&lt;p&gt;-p&lt;/p&gt;
+</description>
+				<pubDate>Thu, 14 May 2020 23:34:56 +0530</pubDate>
+				<link>http://localhost:4000/gsoc/gsoc-blog-0</link>
+				<guid isPermaLink="true">http://localhost:4000/gsoc/gsoc-blog-0</guid>
+			</item>
+		
+	</channel>
+</rss>
